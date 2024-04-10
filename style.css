@@ -90,17 +90,25 @@
 .projets{
     width: 70%;
     margin: auto;
+    justify-content: space-between;
+   
 }
+.mesprojets{
+    justify-content: space-between;
+    
 
+  width: 100%;
+}
 
 .Passionnée{
 
     border-radius: 15px;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
     padding: 10px;
+    text-align: center;
 }
 .mesqualités{
-    display: flex;
+    
     justify-content: space-between;
     margin: auto;
     width: 70%;
@@ -108,4 +116,14 @@
 }
 .mq{
     margin-top: 80px;
+}
+.a{
+    display: flex;
+    justify-content: space-between;
+}
+.ti{
+    justify-content: space-between;
+    margin: auto;
+    width: 100%;
+
 }
